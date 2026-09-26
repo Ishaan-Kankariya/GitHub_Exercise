@@ -1,0 +1,3 @@
+Hello!
+This is my GitHub exercise.
+DS4200 Homework 2.
